@@ -3,7 +3,7 @@
 % TDMA:  Solves the tridiagonal linear system Ax = b for x using the
 % tridiagonal matrix algorithm (i.e. the Thomas algorithm).
 %
-% Copyright © 2022 Llorente-Lázaro, Víctor Javier
+% Copyright © 2022 Llorente Lázaro, Víctor Javier
 % Last Update: July 25, 2022
 % Website: https://sites.google.com/view/vjllorente
 % Contact: victor.javier.llorente@gmail.com
