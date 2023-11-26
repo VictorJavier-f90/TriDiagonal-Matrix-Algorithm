@@ -25,7 +25,7 @@
 % Conditions: 
 % 1. Strictly Diagonally Dominant (SDD) matrix or Symmetric Positive Definite (SPD) matrix
 % 2. bm(1) ~= 0
-% The condition 1 is a sufficient condition but not a necessary condition
+% The condition 1 is a necessary condition for stability
 %
 % ----------------
 % MATLAB function: 
